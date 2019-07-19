@@ -11,7 +11,7 @@
 	<title>manapparai_admin &#8211; Manapparai</title>
 	<atom:link href="https://manapparai.tk/author/manapparai_admin/feed/" rel="self" type="application/rss+xml" />
 	<link>https://manapparai.tk</link>
-	<description>Just another WordPress site</description>
+	<description>Manapparai is a town and a municipality in Tiruchirappalli district in the Indian state of Tamil Nadu</description>
 	<lastBuildDate>Thu, 18 Jul 2019 20:54:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
@@ -22,7 +22,7 @@
 	<item>
 		<title>Hello world!</title>
 		<link>https://manapparai.tk/2019/07/18/hello-world/</link>
-				<comments>https://manapparai.tk/2019/07/18/hello-world/#comments</comments>
+				<comments>https://manapparai.tk/2019/07/18/hello-world/#respond</comments>
 				<pubDate>Thu, 18 Jul 2019 20:54:27 +0000</pubDate>
 		<dc:creator><![CDATA[manapparai_admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
@@ -31,9 +31,11 @@
 				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 								<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-]]></content:encoded>
+<div id="themify_builder_content-1" data-postid="1" class="themify_builder_content themify_builder_content-1 themify_builder">
+    </div>
+<!-- /themify_builder_content -->]]></content:encoded>
 							<wfw:commentRss>https://manapparai.tk/2019/07/18/hello-world/feed/</wfw:commentRss>
-		<slash:comments>1</slash:comments>
+		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
 </rss>
