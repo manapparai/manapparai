@@ -12,7 +12,7 @@
 	<atom:link href="https://manapparai.tk/feed/" rel="self" type="application/rss+xml" />
 	<link>https://manapparai.tk</link>
 	<description>Manapparai is a town and a municipality in Tiruchirappalli district in the Indian state of Tamil Nadu</description>
-	<lastBuildDate>Thu, 18 Jul 2019 20:54:27 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 20 Jul 2019 08:00:47 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -20,21 +20,39 @@
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.2.2</generator>
 	<item>
-		<title>Hello world!</title>
-		<link>https://manapparai.tk/2019/07/18/hello-world/</link>
-				<comments>https://manapparai.tk/2019/07/18/hello-world/#respond</comments>
-				<pubDate>Thu, 18 Jul 2019 20:54:27 +0000</pubDate>
+		<title>Hospitals in Manapparai</title>
+		<link>https://manapparai.tk/2019/07/20/hospitals-in-manapparai/</link>
+				<comments>https://manapparai.tk/2019/07/20/hospitals-in-manapparai/#respond</comments>
+				<pubDate>Sat, 20 Jul 2019 08:00:45 +0000</pubDate>
 		<dc:creator><![CDATA[manapparai_admin]]></dc:creator>
 				<category><![CDATA[Uncategorized]]></category>
 
-		<guid isPermaLink="false">https://manapparai.tk/?p=1</guid>
-				<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-								<content:encoded><![CDATA[
-<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<div id="themify_builder_content-1" data-postid="1" class="themify_builder_content themify_builder_content-1 themify_builder">
-    </div>
-<!-- /themify_builder_content -->]]></content:encoded>
-							<wfw:commentRss>https://manapparai.tk/2019/07/18/hello-world/feed/</wfw:commentRss>
+		<guid isPermaLink="false">https://manapparai.tk/?p=82</guid>
+				<description><![CDATA[Kasim Hospital GKM Kalai Arasan]]></description>
+								<content:encoded><![CDATA[<div id="themify_builder_content-82" data-postid="82" class="themify_builder_content themify_builder_content-82 themify_builder">
+    	<!-- module_row -->
+	<div  class="themify_builder_row module_row clearfix module_row_0 themify_builder_82_row module_row_82-0 tb_989p694">
+	    	    <div class="row_inner col_align_top" >
+			<div  class="module_column tb-column col-full first tb_82_column module_column_0 module_column_82-0-0 tb_iuvg696" >
+	    	    	        <div class="tb-column-inner">
+		    
+
+<!-- module text -->
+<div  class="module module-text text-82-0-0-0     tb_jjve138">
+        <div  class="tb_text_wrap">
+    <ul><li>Kasim Hospital</li><li>GKM</li><li>Kalai Arasan</li></ul>    </div>
+</div>
+<!-- /module text -->
+
+	        </div>
+	    	</div>
+		    </div>
+	    <!-- /row_inner -->
+	</div>
+	<!-- /module_row -->
+	</div>
+]]></content:encoded>
+							<wfw:commentRss>https://manapparai.tk/2019/07/20/hospitals-in-manapparai/feed/</wfw:commentRss>
 		<slash:comments>0</slash:comments>
 							</item>
 	</channel>
