@@ -1,2 +1,0 @@
-# manapparai
-sample
