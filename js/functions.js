@@ -3,7 +3,7 @@
 	$('#countdown_dashboard').countDown({
 
 		targetDate: {
-			'day': 		8,
+			'day': 		15,
 			'month': 	8,
 			'year': 	2019,
 			'hour': 	09,
