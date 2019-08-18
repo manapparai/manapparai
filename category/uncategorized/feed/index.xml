@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>Manapparai Taluk</title>
-	<atom:link href="https://manapparai.tk/feed/" rel="self" type="application/rss+xml" />
+	<title>Uncategorized &#8211; Manapparai Taluk</title>
+	<atom:link href="https://manapparai.tk/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>https://manapparai.tk</link>
 	<description>Just another WordPress site</description>
 	<lastBuildDate>Sun, 18 Aug 2019 11:52:32 +0000</lastBuildDate>
