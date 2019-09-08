@@ -2,23 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>https://manapparai.tk/index.html</loc>
+		<lastmod>2019-09-08</lastmod>
+	</url>
+	<url>
+		<loc>https://manapparai.tk/blog/index.html</loc>
+		<lastmod>2019-09-08</lastmod>
+	</url>
+	<url>
+		<loc>https://manapparai.tk/blog/files/82d110a7c99c75b1165b48dcca96a852-1.html</loc>
+		<lastmod>2019-09-08</lastmod>
+	</url>
+	<url>
+		<loc>https://manapparai.tk/blog/files/hospitals-in-manapparai.html</loc>
+		<lastmod>2019-09-08</lastmod>
+	</url>
+	<url>
+		<loc>https://manapparai.tk/blog/files/archive-september-2019.html</loc>
+		<lastmod>2019-09-08</lastmod>
 	</url>
 	<url>
 		<loc>https://manapparai.tk/photos/index.html</loc>
-	</url>
-	<url>
-		<loc>https://manapparai.tk/photos/files/page1-1000-full.html</loc>
-	</url>
-	<url>
-		<loc>https://manapparai.tk/photos/files/page1-1001-full.html</loc>
-	</url>
-	<url>
-		<loc>https://manapparai.tk/photos/files/page1-1002-full.html</loc>
-	</url>
-	<url>
-		<loc>https://manapparai.tk/photos/files/page1-1003-full.html</loc>
-	</url>
-	<url>
-		<loc>https://manapparai.tk/contact-form/index.php</loc>
 	</url>
 </urlset>
